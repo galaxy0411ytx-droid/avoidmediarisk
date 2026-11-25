@@ -1,0 +1,12 @@
+{
+  "name": "avoidmediarisk",
+  "displayName": "Avoid Media Risk",
+  "version": "1.0.0",
+  "description": "Pre-publish compliance audit, traffic throttling diagnostics, and up-to-date risk control rules for Xiaohongshu, Douyin, WeChat Channels, TikTok, X, Instagram, and YouTube.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Audit this post draft for Xiaohongshu and Douyin risk control before publishing",
+    "Diagnose why my TikTok / Instagram Reels / YouTube Shorts reach suddenly dropped",
+    "Check and refresh the latest platform risk control rules for all 7 platforms"
+  ]
+}

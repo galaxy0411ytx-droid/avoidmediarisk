@@ -1,0 +1,35 @@
+{
+  "skill": "avoidmediarisk",
+  "version": "1.0.0",
+  "freshness_threshold_days": 7,
+  "platforms": {
+    "xiaohongshu": {
+      "file": "references/xiaohongshu.md",
+      "last_updated": "2026-11-24"
+    },
+    "douyin": {
+      "file": "references/douyin.md",
+      "last_updated": "2026-11-24"
+    },
+    "weixin-channels": {
+      "file": "references/weixin-channels.md",
+      "last_updated": "2026-11-24"
+    },
+    "tiktok": {
+      "file": "references/tiktok.md",
+      "last_updated": "2026-11-24"
+    },
+    "x": {
+      "file": "references/x.md",
+      "last_updated": "2026-11-24"
+    },
+    "instagram": {
+      "file": "references/instagram.md",
+      "last_updated": "2026-11-24"
+    },
+    "youtube": {
+      "file": "references/youtube.md",
+      "last_updated": "2026-11-24"
+    }
+  }
+}
